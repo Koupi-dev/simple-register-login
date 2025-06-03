@@ -127,10 +127,10 @@ def send_verification_email(to_email, code):
     }
     result = mailjet.send.create(data=data)
     if result.status_code == 200:
-        print("✅ メール送信成功！")
+        print("✅ Success")
         return 1
     else:
-        print("❌ エラー:", result.status_code, result.json())
+        print("❌ Error:", result.status_code, result.json())
         return 0
 
 
