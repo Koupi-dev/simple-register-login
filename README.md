@@ -41,4 +41,7 @@ It does not include full production-level security measures, such as:
 
 **Please do not use this code in a production environment** without implementing proper security, validation, and testing.
 
-Use at your own risk. I warned you. Twice.
+Use at your own risk. I warned you.
+
+my portfolio
+https://koupi-dev.github.io/
